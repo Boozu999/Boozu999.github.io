@@ -1,3 +1,3 @@
 # Boozu999.github.io
-This is an idiot website.
-So I think you don't have to use time at my website.
+This is an idiot website. <br>
+So I don't think that you has to use time at my website.
