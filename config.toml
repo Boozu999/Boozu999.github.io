@@ -1,0 +1,10 @@
+baseURL = 'boozu999.github.io'
+languageCode = 'ja-jp'
+title = 'ChatGPTによる広告なしの軽量辞書'
+theme = "mainroad"
+googleAnalytics = "G-EFP75K0YE1"
+
+enableRobotsTXT = true
+
+[Params]
+	readmore = true
